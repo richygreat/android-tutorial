@@ -9,4 +9,6 @@
     <string name="cd_products_list">Products List</string>
     <string name="loading_products">Loading Products…</string>
     <string name="cd_product_name">Product Name</string>
+    <string name="info_button">Info</string>
+    <string name="select_button">Select</string>
 </resources>

@@ -77,6 +77,9 @@ public abstract class AppDatabase extends RoomDatabase {
                                 products.add(new ProductEntity(1, "Phone"));
                                 products.add(new ProductEntity(2, "Laptop"));
                                 products.add(new ProductEntity(3, "Camera"));
+                                products.add(new ProductEntity(4, "Television"));
+                                products.add(new ProductEntity(5, "Radio"));
+                                products.add(new ProductEntity(6, "Lamp"));
 
                                 insertData(database, products);
                                 // notify that the database was created and it's ready to be used
